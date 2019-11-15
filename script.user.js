@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         FixYoutube
+// @namespace    https://sowa705.tk/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Fixes youtube layout
+// @author       sowa705
 // @match        https://www.youtube.com/
 // @grant        none
 // ==/UserScript==
