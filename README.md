@@ -5,4 +5,4 @@ TamperMonkey script to fix new youtube layout
 ## After
 ![after](after.PNG)
 # Usage
-Use script.js and set column count with localStorage.xd = *column count*
+Install script.user.js and set column count with localStorage.xd = *column count*
